@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react'
 import '../styles/hero.css'
-import { FaRocket, FaChevronDown } from 'react-icons/fa'
+import { FaChevronDown } from 'react-icons/fa'
 
 const Hero = () => {
   const heroRef = useRef(null)
