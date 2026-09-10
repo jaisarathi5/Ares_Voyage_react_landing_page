@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react'
 import '../styles/about.css'
-import { FaShieldAlt, FaUserAstronaut, FaRocket } from 'react-icons/fa'
+import { FaShieldAlt, FaUserAstronaut} from 'react-icons/fa'
 
 const About = () => {
   const sectionRef = useRef(null)
