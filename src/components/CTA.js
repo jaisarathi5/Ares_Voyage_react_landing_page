@@ -17,7 +17,7 @@ const CTA = () => {
           </p>
           <div className="cta-buttons">
             <a href="#pricing" className="btn btn-gold">Reserve Mission</a>
-            <a href="#" className="btn btn-secondary">Download Mission Guide</a>
+            <a href="#Footer" className="btn btn-secondary">Download Mission Guide</a>
           </div>
         </div>
         <div className="cta-rocket">
