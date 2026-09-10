@@ -22,11 +22,6 @@ const About = () => {
 
   const cards = [
     {
-      icon: <FaRocket />,
-      title: 'Luxury Accommodation',
-      desc: 'State-of-the-art zero-gravity suites with panoramic views of the Martian landscape.'
-    },
-    {
       icon: <FaUserAstronaut />,
       title: 'AI Mission Assistance',
       desc: 'Personalized AI concierge to guide you through every step of your interplanetary journey.'
