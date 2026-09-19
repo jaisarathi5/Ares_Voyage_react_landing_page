@@ -24,10 +24,10 @@ const Footer = () => {
           </form>
         </div>
         <div className="footer-social">
-          <a href="#"><FaTwitter /></a>
-          <a href="#"><FaFacebook /></a>
-          <a href="#"><FaInstagram /></a>
-          <a href="#"><FaYoutube /></a>
+          <a href="https://x.com/"><FaTwitter /></a>
+          <a href="https://www.facebook.com/"><FaFacebook /></a>
+          <a href="https://www.instagram.com/?hl=en"><FaInstagram /></a>
+          <a href="https://www.youtube.com/"><FaYoutube /></a>
         </div>
       </div>
       <div className="footer-bottom">
